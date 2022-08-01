@@ -10,3 +10,4 @@ Run http://localhost:8080/api/asset for get
 Run http://localhost:8080/api/assets for post
 
 Run http://localhost:8080/api/asset/id for get by id. (ID is 1001, 1002 for this case which is present in database)
+.......
